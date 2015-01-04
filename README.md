@@ -1,6 +1,6 @@
-#Javascript Clock
+# Javascript Clock
 
-##Description:
+## Description:
 A simple clock created in javascript.
 
 | Download it! |
